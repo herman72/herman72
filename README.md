@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammad
+<!--- - 👋 Hi, I’m Mohammad --->
 - 👀 I’m interested in a deep dive into the world of Computer
 - 🌱 I’m currently learning Django, Go, and Machine Learning
 - 💞️ I’m looking to collaborate on back-end projects
